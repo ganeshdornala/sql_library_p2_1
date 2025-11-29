@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Library_project](https://github.com/ganeshdornala/sql_library_p2_1/blob/main/Library-System-Management---P2/library.jpg)
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](https://github.com/ganeshdornala/sql_library_p2_1/blob/main/Library-System-Management---P2/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -485,7 +485,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
+   https://github.com/ganeshdornala/sql_library_p2_1.git
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
@@ -497,4 +497,5 @@ This project demonstrates the application of SQL skills in creating and managing
 This project showcases SQL skills essential for database management and analysis. 
 
 Thank you for your interest in this project!
+
 
